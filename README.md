@@ -9,7 +9,7 @@
 ```shell
 source env.sh
 
-init
+terraform init
 
 terraform plan
 
